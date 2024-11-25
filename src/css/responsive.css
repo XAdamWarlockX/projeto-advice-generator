@@ -1,0 +1,9 @@
+@media (max-width: 500px){
+    .container{
+        padding: 0px 20px;
+    }
+
+    .container .card .conteudo p{
+        font-size: 22px;
+    }
+}
