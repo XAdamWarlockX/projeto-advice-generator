@@ -20,11 +20,11 @@ https://api.adviceslip.com
 
 ## Funcionalidades da aplicação
 
-Essa aplicação tem um botão que muda o conselho mostrado na tela para outro aleatório, por está consumindo uma API o card tem um delay para trocar o conselho.
+Essa aplicação tem um botão que muda o conselho mostrado na tela para outro aleatório. Por estar consumindo uma API o card tem um delay para trocar o conselho.
 
 ## Passo a passo para clonar o projeto
 
-Para clonar o projeto você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
+Para clonar o projeto, você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
 
 1 - Abra um terminal onde deseja colocar o projeto
 
