@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+   "outDir": "./dist", // Pasta onde o JavaScript gerado será salvo
+    "target": "ES6",   // Compatibilidade com navegadores mais antigos
+    "module": "ESNext" // Suporte a módulos ES (import/export)
+  },
+  "include": ["src/ts"], // Diretório onde estão os arquivos .ts
+  "exclude": ["node_modules"]
+}

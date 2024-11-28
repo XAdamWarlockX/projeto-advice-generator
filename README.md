@@ -1,6 +1,6 @@
 # Advice Generator
 
-Projeto que consome uma API de conselhos e altera entre os conselhos clicando no botão verde do card.
+Projeto retirado do Frontend mentor que consome uma API de conselhos e altera entre os conselhos clicando no botão verde do card, o TypeScript presente no projeto foi decisão minha para praticar a linguagem.
 
 ## API usada
 
@@ -13,6 +13,8 @@ https://api.adviceslip.com
 - CSS <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 - JavaScript <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+- TypeScript <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
 ## Prévia
 
@@ -32,11 +34,16 @@ Para clonar o projeto, você pode usar o terminal de sua preferência, o passo a
 ```
 git clone "url do projeto"
 ```
-3 - Entre na pasta do projeto pelo terminal
+3 - Acesse a pasta do projeto
 ```
-cd nome-da-pasta
+cd poke-api
 ```
-4 - Abra o projeto no VScode
+4 - Instale as dependências do projeto
+```
+npm install
+```
+5 - Abra no vscode
 ```
 cd .
 ```
+6 - Execute o projeto usando o Live server
