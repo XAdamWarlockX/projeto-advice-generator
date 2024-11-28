@@ -36,7 +36,7 @@ git clone "url do projeto"
 ```
 3 - Acesse a pasta do projeto
 ```
-cd poke-api
+cd projeto-advice-generator
 ```
 4 - Instale as dependências do projeto
 ```
