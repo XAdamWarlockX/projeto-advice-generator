@@ -42,8 +42,16 @@ cd projeto-advice-generator
 ```
 npm install
 ```
-5 - Abra no vscode
+5 - Compile os arquivos TypeScript
+```
+npx tsc
+``` 
+ou
+```
+tsc
+```
+6 - Abra no vscode
 ```
 cd .
 ```
-6 - Execute o projeto usando o Live server
+7 - Execute o projeto usando o Live server
