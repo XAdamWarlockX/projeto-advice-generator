@@ -52,6 +52,6 @@ tsc
 ```
 6 - Abra no vscode
 ```
-cd .
+code .
 ```
 7 - Execute o projeto usando o Live server
