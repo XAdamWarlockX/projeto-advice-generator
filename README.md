@@ -6,7 +6,7 @@ Projeto retirado do Frontend mentor que consome uma API de conselhos e altera en
 
 https://api.adviceslip.com
 
-## Linguagens usadas
+## Tecnologias usadas 👨‍💻
 
 - HTML <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
@@ -16,15 +16,19 @@ https://api.adviceslip.com
 
 - TypeScript <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 
-## Prévia
+## Prévia Desktop 💻
 
-<img src="./src/images/previa.png">
+<img height="350" src="./src/images/previa-desktop.gif">
 
-## Funcionalidades da aplicação
+## Prévia Mobile 📱
+
+<img src="./src/images/previa-mobile.gif">
+
+## Funcionalidades da aplicação 💡
 
 Essa aplicação tem um botão que muda o conselho mostrado na tela para outro aleatório. Por estar consumindo uma API o card tem um delay para trocar o conselho.
 
-## Passo a passo para clonar o projeto
+## Passo a passo para clonar o projeto 📝
 
 Para clonar o projeto, você pode usar o terminal de sua preferência, o passo a passo a seguir usa os comandos do gitbash como exemplo.
 

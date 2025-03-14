@@ -10,7 +10,7 @@ async function geradorDeConselhos (): Promise<ApiResponse> {
     try{
         const url: string = "https://api.adviceslip.com/advice";
         const respostaDoApi: Response = await fetch(url);
-        return await respostaDoApi.json();
+        return respostaDoApi.json();
     } catch (error: unknown) {
         console.error("Infelizmente o API não esta respondendo ou tem algo de errado no código.")
     }
